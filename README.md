@@ -8,7 +8,8 @@ As part of FreeCodeCamp's Backend Development and APIs course, I use their boile
  - run `yarn install`
  - now run `./node_modules/.bin/nodemon index.js` to start the app
 
- ##　Endpoint
+
+ ## Endpoint
 
  It accepts a date string as a parameter and returns:
 
